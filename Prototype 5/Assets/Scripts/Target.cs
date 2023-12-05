@@ -1,4 +1,10 @@
-﻿using System.Collections;
+/*
+		 * Darion Jeffries
+		 * Target.cs
+		 * Prototype 5
+		 * Spawns targets to click
+		 */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
