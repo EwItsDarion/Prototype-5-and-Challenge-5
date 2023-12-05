@@ -1,4 +1,11 @@
-﻿using System.Collections;
+/*
+		 * Darion Jeffries
+		 * DifficultyButton.cs
+		 * Prototype 5
+		 * Adds functionality to difficulty button
+		 */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
