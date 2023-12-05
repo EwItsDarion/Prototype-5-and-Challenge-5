@@ -1,4 +1,10 @@
-﻿using System.Collections;
+/*
+		 * Darion Jeffries
+		 * GameManager.cs
+		 * Prototype 5
+		 * Adds a game manager
+		 */
+using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
